@@ -30,5 +30,4 @@ The result will look like:
 
 How does it work:
 It uses the apple rss feeds to get the reviews.
-An example rss feed is: https://itunes.apple.com/nl/rss/customerreviews/page=1/id=1423224663/sortby=mostrecent/xml 
-The appid in the url is a fake one, so the url leads to nowhere.
+An example rss feed is: https://itunes.apple.com/nl/rss/customerreviews/page=1/id=1063224663/sortby=mostrecent/xml
