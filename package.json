@@ -1,6 +1,6 @@
 {
   "name": "iosreviewfetcher",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Fetches reviews of ios apps from itunes. Should theoratically also work for anything listed on itunes.",
   "main": "index.js",
   "author": "MNM",
@@ -16,8 +16,8 @@
     "url": "https://github.com/mnm1992/iOSReviewFetcher.git"
   },
   "dependencies": {
-    "request": "^2.88.0",
-    "request-promise": "^4.2.2",
-    "xml2js-es6-promise": "^1.1.1"
+    "request",
+    "request-promise",
+    "xml2js-es6-promise"
   }
 }
