@@ -16,8 +16,7 @@
     "url": "https://github.com/mnm1992/iOSReviewFetcher.git"
   },
   "dependencies": {
-    "request",
-    "request-promise",
-    "xml2js-es6-promise"
+    "request-promise": "^4.2.2",
+    "xml2js-es6-promise": "^1.1.1"
   }
 }
