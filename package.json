@@ -1,6 +1,6 @@
 {
   "name": "iosreviewfetcher",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Fetches reviews of ios apps from itunes. Should theoratically also work for anything listed on itunes.",
   "main": "index.js",
   "author": "MNM",
